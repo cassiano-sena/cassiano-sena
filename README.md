@@ -5,11 +5,9 @@
 
 ## Hi there 👋 
   
-
 <sub> 🔭 Working on upgrading my programming skills. </sub>
 
 <sub> 🌱 Learning Flutter/Dart. </sub>
-
 
 <!--
 **cassiano-sena/cassiano-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
