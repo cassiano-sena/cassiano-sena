@@ -1,18 +1,18 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on upgrading my programming skills.
+- 🔭 Working on upgrading my programming skills.
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 Learning Flutter/Dart.
 
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-de-sena-crispim-0a84a4213/)<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cassiano-sena&theme=dracula" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiano-sena&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cassiano-sena&theme=dracula" />
 </a>
 
 <!--
