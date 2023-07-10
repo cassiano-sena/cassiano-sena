@@ -1,4 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiano-sena&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano-sena&show_icons=true&theme=dracula&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### Hi there 👋
