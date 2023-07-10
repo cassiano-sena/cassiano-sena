@@ -8,7 +8,7 @@
 
 <sub> 🌱 Learning Flutter/Dart. </sub>
 
-<br><br>
+<br><br><br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-de-sena-crispim-0a84a4213/)
 
