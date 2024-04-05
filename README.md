@@ -16,7 +16,7 @@
 
 ## Projects
 
-- <sub>**[eTransporte](https://github.com/cassiano-sena/eTransporte)**: A web-based PHP prototype designed to streamline students' daily transportation activities. From tracking bus schedules to optimizing routes, it aims to enhance the commuting experience for students, making their journeys more efficient and convenient.</sub>
+- <sub>**[eTransporte](https://github.com/cassiano-sena/eTransporte)**: eTransporte is a web-based PHP prototype designed to streamline students' daily transportation activities. It features group functionality where users can join and collaborate. Within groups, participants can track bus schedules, positions, and routes, as well as communicate with other members.</sub>
 
 <!--
 **cassiano-sena/cassiano-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
