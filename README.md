@@ -5,9 +5,17 @@
 
 ## Hi there 👋 
   
-<sub> 🔭 Working on upgrading my programming skills. </sub>
+<sub> 🔭 Always learning and upgrading my developer skills. </sub>
 
-<sub> 🌱 Learning Flutter/Dart. </sub>
+## Skills
+
+- <sub>Languages: C++, Java, C#, and Lua.</sub>
+- <sub>Databases: MySQL, PostgreSQL, and PL/pgSQL.</sub>
+- <sub>Mobile: Flutter.</sub>
+
+## Projects
+
+- <sub>**[eTransporte](https://github.com/cassiano-sena/eTransporte)**: A web-based PHP prototype designed to streamline students' daily transportation activities. From tracking bus schedules to optimizing routes, it aims to enhance the commuting experience for students, making their journeys more efficient and convenient.</sub>
 
 <!--
 **cassiano-sena/cassiano-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
