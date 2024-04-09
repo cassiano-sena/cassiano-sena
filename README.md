@@ -1,7 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-de-sena-crispim-0a84a4213/)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiano-sena&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+
 
 ## Hi there 👋 
   
