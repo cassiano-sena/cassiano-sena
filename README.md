@@ -9,7 +9,7 @@
 ## Skills
 
 - <sub>Languages: C++, Java, C#, and Lua.</sub>
-- <sub>Databases: MySQL, PostgreSQL, and PL/pgSQL.</sub>
+- <sub>Databases: MySQL, MongoDB, PostgreSQL, and PL/pgSQL.</sub>
 - <sub>Web: PHP and JavaScript.</sub>
 - <sub>Mobile: Flutter.</sub>
 
