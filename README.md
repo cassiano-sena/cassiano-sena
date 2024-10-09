@@ -6,13 +6,6 @@
   
 <sub> 🔭 Always learning and upgrading my developer skills. </sub>
 
-## Skills
-
-- <sub>Languages: C++, Java, C#, and Lua.</sub>
-- <sub>Databases: MySQL, MongoDB, PostgreSQL, and PL/pgSQL.</sub>
-- <sub>Web: PHP and JavaScript.</sub>
-- <sub>Mobile: Flutter.</sub>
-
 ## Projects
 
 - <sub>**[eTransporte](https://github.com/cassiano-sena/eTransporte)**: eTransporte is a web-based PHP prototype designed to streamline students' daily transportation activities. It features group functionality where users can join and collaborate. Within groups, participants can track bus schedules, positions, and routes, as well as communicate with other members.</sub>
